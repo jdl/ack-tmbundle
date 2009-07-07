@@ -986,6 +986,7 @@ BEGIN {
         elisp       => [qw( el )],
         erlang      => [qw( erl )],
         fortran     => [qw( f f77 f90 f95 f03 for ftn fpp )],
+        haml        => [qw( haml )],
         haskell     => [qw( hs lhs )],
         hh          => [qw( h )],
         html        => [qw( htm html shtml xhtml )],
